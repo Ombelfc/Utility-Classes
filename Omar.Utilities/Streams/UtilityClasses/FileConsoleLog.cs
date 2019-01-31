@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace Omar.Utilities.Streams
+namespace Omar.Utilities.Streams.UtilityClasses
 {
     public class FileConsoleLog
     {
